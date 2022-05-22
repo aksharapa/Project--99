@@ -1,0 +1,21 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(253, 162, 229);
+    color: rgb(251, 0, 0);
+}
+
+#camera {
+    width: 360px;
+    height: 250px;
+    border: 1px solid grey;
+}
+
+
+img:hover{
+    border-radius: 140px;
+    box-shadow: 0 6px 8px rgba(2, 2, 2, 0,2);
+    padding: 10px;
+}
